@@ -100,28 +100,28 @@ Welcome to the *Sanskriti Salon Website* project! This website is designed to pr
 ## 🖼 Screenshots & Visuals
 Here’s what your website might include visually (add actual screenshots to replace placeholders):
 1. *Signin page*
-   ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/72c909cebe6dd00cb4de6a5eb7333a5b5687db59/sign-in%20page.png)
+   ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/eb242daaf76ee210ae04c5ff3c68a0d3e7a72b13/sign-in%20page.png)
 2. *Logi Page*
-   ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/72c909cebe6dd00cb4de6a5eb7333a5b5687db59/log-in%20page.png)
+   ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/eb242daaf76ee210ae04c5ff3c68a0d3e7a72b13/log-in%20page.png)
 3. *Hero Section with Welcome Message and CTA*
-   ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/72c909cebe6dd00cb4de6a5eb7333a5b5687db59/home.png)
+   ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/eb242daaf76ee210ae04c5ff3c68a0d3e7a72b13/home.png)
 4. *About*
-    ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/72c909cebe6dd00cb4de6a5eb7333a5b5687db59/about.png)
+    ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/eb242daaf76ee210ae04c5ff3c68a0d3e7a72b13/about.png)
 5. *Gallery of Services*
-   ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/72c909cebe6dd00cb4de6a5eb7333a5b5687db59/service.png)
+   ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/eb242daaf76ee210ae04c5ff3c68a0d3e7a72b13/service.png)
 6.  *Price*
-    ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/72c909cebe6dd00cb4de6a5eb7333a5b5687db59/price.png)
+    ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/eb242daaf76ee210ae04c5ff3c68a0d3e7a72b13/price.png)
 7. *Gallery*
-    ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/72c909cebe6dd00cb4de6a5eb7333a5b5687db59/gallery.png)
+    ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/eb242daaf76ee210ae04c5ff3c68a0d3e7a72b13/gallery.png)
 8. *Barber*
-    ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/72c909cebe6dd00cb4de6a5eb7333a5b5687db59/barber.png)
+    ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/eb242daaf76ee210ae04c5ff3c68a0d3e7a72b13/barber.png)
 9.  *Customer Reviews Section*
-    ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/72c909cebe6dd00cb4de6a5eb7333a5b5687db59/feedback.png)
+    ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/eb242daaf76ee210ae04c5ff3c68a0d3e7a72b13/feedback.png)
 
 10. *Contact Page Layout*
-    ![image](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/72c909cebe6dd00cb4de6a5eb7333a5b5687db59/contact.png)
+    ![image](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/eb242daaf76ee210ae04c5ff3c68a0d3e7a72b13/contact.png)
 11. *Footer*
-    ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/72c909cebe6dd00cb4de6a5eb7333a5b5687db59/footer.png)
+    ![image alt](https://github.com/Soumyakc-161/Tech-Grow-Task-2/blob/eb242daaf76ee210ae04c5ff3c68a0d3e7a72b13/footer.png)
     
 ---
 
